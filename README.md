@@ -4,7 +4,7 @@ This is a Full Responsive Todo notebook, that was created with ReactJS and style
 The app has the functionality to add new task, remove task, check if a task is finished and also the uncheck option and it has a useEffect that counts the number of tasks.
 
 ###
-If you are interested in seeing the app you can check it here: https://codesandbox.io/s/student-frontend-developer-template-forked-jupcx?file=/src/App.js:1077-1097
+If you are interested in seeing the app without downloading the react files you can check it here: https://codesandbox.io/s/student-frontend-developer-template-forked-jupcx?file=/src/App.js:1077-1097
 
 Thank you
 # Getting Started with Create React App
